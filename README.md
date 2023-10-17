@@ -9,8 +9,8 @@
   <p align="center">
     A german developer and founder of EternalAce
     <br />
-    <a href="https://discord.com/channels/@me/814861093695651878">Discord</a>
-    <a href="https://github.com/HttpMarco?tab=repositories">Repositories</a>
+    <a href="https://discord.com/channels/@me/348084851582435340">Discord</a>
+    <a href="https://github.com/Winterass?tab=repositories">Repositories</a>
   <br />
     <div align="center">
   <img align="center" alt="Intellij" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/intellij-idea-569199.png" />
@@ -24,9 +24,9 @@
   </p> 
 </p>
 
- [![Discord][discord-shield]][discord-url]
- [![Teamspeak][teamspeak-shield]][teamspeak-url]
- [![spotify][spotify-shield]][spotify-url]
+[![Discord][discord-shield]][discord-url]
+[![Teamspeak][teamspeak-shield]][teamspeak-url]
+[![spotify][spotify-shield]][spotify-url]
  
 [discord-shield]: https://img.shields.io/badge/-Discord-black.svg?style=for-the-badge&logo=discord&colorB=555
 [discord-url]: https://discord.com/invite/phRcYuhhjh
