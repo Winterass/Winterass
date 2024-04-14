@@ -8,6 +8,9 @@
 
   <p align="center">
     A german developer and founder of EternalAce
+    I'm a German Devoloper, Content Creator and Founder of EternalAce.
+    I'm part of einDino.net a German Citybuild Server with Bilingual Language Support, 
+    and i'm also part of Klickmich.net a German Minigame Network from the Youtuber LOGO that I also work for.
     <br />
     <a href="https://discord.com/channels/@me/348084851582435340">Discord</a>
     <a href="https://github.com/Winterass?tab=repositories">Repositories</a>
